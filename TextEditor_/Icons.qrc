@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/new/appIcon">
+        <file>Icons/page_white.png</file>
+    </qresource>
+    <qresource prefix="/File">
+        <file>Icons/newFile.png</file>
+        <file>Icons/openFolder.png</file>
+        <file>Icons/save.png</file>
+        <file>Icons/closeFile.png</file>
+        <file>Icons/quitFile.png</file>
+    </qresource>
+    <qresource prefix="/View">
+        <file>Icons/font.png</file>
+    </qresource>
+    <qresource prefix="/Edit">
+        <file>Icons/copyFile.png</file>
+        <file>Icons/cut.png</file>
+        <file>Icons/insert.png</file>
+        <file>Icons/redo.png</file>
+        <file>Icons/undo.png</file>
+    </qresource>
+    <qresource prefix="/Help">
+        <file>Icons/about.png</file>
+        <file>Icons/qt.png</file>
+    </qresource>
+</RCC>
