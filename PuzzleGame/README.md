@@ -8,5 +8,7 @@
 Иллюстрации работы приложения:
 
 https://user-images.githubusercontent.com/27689578/32084070-bce7c48c-bacf-11e7-88ac-2fc8670652e4.jpg
+
 https://user-images.githubusercontent.com/27689578/32084399-8f524e0a-bad1-11e7-8646-c90b21fe4126.jpg
+
 https://user-images.githubusercontent.com/27689578/32084447-d65bedc4-bad1-11e7-9d9d-ac0c69845042.jpg
